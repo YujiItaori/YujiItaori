@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YujiItaori
+- 👋 Hi, I’m Yash Vishwas
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... React
