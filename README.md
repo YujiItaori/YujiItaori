@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Vishwas
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... AI
+- 🌱 I’m passionate ... AI
 - 💞️ I’m looking to collaborate on ... React Projects
 - 📫 How to reach me ... WhatsApp me at 9168506880
 
