@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Yash Vishwas
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m passionate ... AI
-- 💞️ I’m looking to collaborate on ... React Projects
-- 📫 How to reach me ... WhatsApp me at 9168506880
+# 👋 Hi, I'm Yash Vishwas  
 
+🚀 **Aspiring AI/ML Engineer | Passionate about Deep Learning & Data Science**  
 
-<!---
-YujiItaori/YujiItaori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 **Currently Learning**  
+- Machine Learning & Deep Learning (TensorFlow & PyTorch)  
+- Data Science & Mathematics for AI  
+- Building AI-driven projects  
+
+### 🤖 **Projects & Interests**  
+- AI-powered applications  
+- Machine Learning models  
+- Data Science & Analytics  
+
+### 💡 **Looking to Collaborate On**  
+- AI/ML research projects  
+- Open-source AI tools  
+
+### 📫 **How to Reach Me**  
+📩 Email: yashvishwas049@gmail.com  
+📱 WhatsApp: 9168506880  
+
+---
+
+> 🚀 *Always learning & building towards the future of AI!*  
